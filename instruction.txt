@@ -1,0 +1,10 @@
+Hashing Algorithms
+plane pass ---> Hashing
+X Hash --- X --> Plain pass
+
+MD5 ===> Message Digest = 32 Charcter
+SHA1 ==> Secure hash Algorithm = 40 Charcter
+SHA512 => Secure Hash Algorithm = 128 Charcter
+
+$_ ====> Super Globle Variable
+$_SERVER ['PHP_SELF'] == Assosative Array
